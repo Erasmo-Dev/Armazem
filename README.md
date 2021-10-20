@@ -1,2 +1,2 @@
 # Armazem
-Api para gerenciar estoque
+Api Gradle para gerenciar estoque usando JPA e Swagger
